@@ -13,7 +13,7 @@ p {
 a {
   color: #57ea69; }
   a:hover {
-    color: #fec503; }
+    color: #43e757; }
 
 .text-primary {
   color: #57ea69 !important; }
@@ -95,7 +95,7 @@ body {
     color: #57ea69;
     font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-      color: #fec503; }
+      color: #43e757; }
   #mainNav .navbar-nav .nav-item .nav-link {
     font-size: 90%;
     font-weight: 400;
