@@ -1,18 +1,18 @@
 // Styling for the timeline section
 .timeline {
-  position: relative;
-  padding: 0;
-  list-style: none;
-  &:before {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 40px;
-    width: 2px;
-    margin-left: -1.5px;
-    content: '';
-    background-color: $gray-200;
-  }
+	position: relative;
+	padding: 0;
+	list-style: none;
+	&:before {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 40px;
+		width: 2px;
+		margin-left: -1.5px;
+		content: '';
+		background-color: $gray-200;
+	}
   > li {
     position: relative;
     min-height: 50px;
